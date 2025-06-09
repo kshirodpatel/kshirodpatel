@@ -1,19 +1,11 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-![](https://komarev.com/ghpvc/?username=kshirodpatel)
+Nice to meet you, I'm Kshirod
 
+## Who Am I? 🤠
 
-<!--
-**kshirodpatel/kshirodpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤓 Self taught Developer 
+- 👩‍💻 Working on Web & App Development 
+- 📝 Writing Words, Compiling Code
+- 🎯 Goal : To be a better Developer 
+- 📫 How to reach me : [kshirod.patel@gmail.com](mailto:kshirod.patel@gmail.com)
