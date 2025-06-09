@@ -2,7 +2,7 @@
 
 Nice to meet you, I'm Kshirod
 
-## Who Am I? 🤠
+## Who Am I? 
 
 - 🤓 Self taught Developer 
 - 👩‍💻 Working on Web & App Development 
